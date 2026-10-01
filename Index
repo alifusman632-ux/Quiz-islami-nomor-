@@ -1,0 +1,18 @@
+Saya akan membuatkan aplikasi web game kuis interaktif **"Quiz Agama Islam"** yang berisi 15 soal yang telah Anda sediakan.
+
+Aplikasi ini dilengkapi dengan fitur-fitur menarik seperti:
+
+* **Tampilan Islami Modern**: Desain bernuansa hijau zamrud dan emas yang elegan serta responsif di HP maupun komputer.
+* **Efek Suara & Musik Sintetis (Web Audio API)**: Efek suara saat menjawab benar, salah, dan saat menyelesaikan kuis.
+* **Timer Countdown**: Pilihan mode santai atau tantangan batas waktu per soal.
+* **Fitur Skor, Combo, & Rating Bintang**: Bonus skor untuk jawaban benar berturut-turut.
+* **Pembahasan Lengkap di Akhir Kuis**: Pembahasan dari setiap soal untuk pembelajaran, termasuk koreksi otomatis untuk gelar *Khatamul Anbiya* (Nabi Muhammad SAW).
+* **Efek Konfeti**: Selebrasi visual saat berhasil menyelesaikan kuis dengan skor tinggi.
+
+Berikut adalah kode aplikasi web single-file HTML lengkap yang siap digunakan.
+
+### Catatan Penting Soal & Koreksi Kuis
+
+Pada daftar soal nomor 4 yang Anda berikan, tertulis kunci jawaban "A. Nabi Ibrahim AS". Dalam ajaran Agama Islam, gelar **Khatamul Anbiya** (Penutup Para Nabi) ditujukan secara tepat kepada **Nabi Muhammad SAW** (Pilihan B). Kunci jawaban pada aplikasi ini telah dikoreksi secara otomatis agar materi pembelajaran tetap akurat.
+
+Selamat mencoba dan memainkan kuisnya! Semoga aplikasi ini bermanfaat untuk mengasah pengetahuan dan keimanan.
